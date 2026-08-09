@@ -29,5 +29,4 @@ I enjoy building projects that combine programming with problem‑solving and sh
 
 ## 📬 Contact
 - GitHub: [HuzeibKhan-prog](https://github.com/HuzeibKhan-prog)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/huzeib-khan-649907324)
+- LinkedIn: [Huzeib Khan](https://www.linkedin.com/in/huzeib-khan-649907324)
