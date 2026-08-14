@@ -25,7 +25,7 @@ I am a TY B.Sc IT student passionate about Python, Data Analysis, Web Developmen
 I enjoy building projects that combine programming with problem‑solving and sharing them on GitHub.
 
 ## 🔗 Live Demo
-[View Portfolio on GitHub Pages](https://huzeibkhan-prog.github.io/MyPortfolio/)
+[View Portfolio on GitHub Pages](https://github.com/HuzeibKhan-prog/MyPortfolio)
 
 ## 📬 Contact
 - GitHub: [HuzeibKhan-prog](https://github.com/HuzeibKhan-prog)
